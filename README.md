@@ -1,7 +1,7 @@
 # JMeter Teste Ecommerce e de API
  
 ## Objetivo
-Projeto pessoal utilizando o JMeter. Neste projeto você encontrará:
+Projeto pessoal utilizando o JMeter no site https://practice.automationtesting.in/ visto que o http://automationpractice.com/ está suspenso. Neste projeto você encontrará:
 - Plano de teste com os cenários
 - Arquivo separado por cenários
 - Plugins de relatório em tempo real
