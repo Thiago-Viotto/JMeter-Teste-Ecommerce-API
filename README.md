@@ -1,4 +1,4 @@
-# JMeter Teste Ecommerce
+# JMeter Teste Ecommerce e de API
  
 ## Objetivo
 Projeto pessoal utilizando o JMeter. Neste projeto você encontrará:
@@ -8,6 +8,7 @@ Projeto pessoal utilizando o JMeter. Neste projeto você encontrará:
 - Cabeçalhos HTTP
 - Asserção de resposta
 - Arquivo CSV - massa de dados
+- Teste de API
 - Relatório de execução como o de sumário e a árvore de resultado
 
 ## Setup
@@ -23,8 +24,10 @@ Pela linha de comando (recomendado):
 
 Ex: jmeter -n -t "..\TesteEcommerce.jmx" -l "..\resultados.jtl" -e -o "..\resultados"
 
+Ex: jmeter -n -t "..\TesteAPI.jmx" -l "..\resultados.jtl" -e -o "..\resultados"
+
 Pela interface:
-- Abrir arquivo "Teste Ecommerce.jmx" no Jmeter
+- Abrir arquivo "Teste Ecommerce.jmx" e "TesteAPI.jmx" no Jmeter
 - Clicar no play
 - Resultado esperado: Relatório e Árvore de execução com rotas em verde
 
